@@ -1,2 +1,2 @@
 # gitworkshop
-workshop
+first github workshop
